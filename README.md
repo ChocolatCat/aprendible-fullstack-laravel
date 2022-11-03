@@ -1,2 +1,2 @@
 # aprendible-fullstack-laravel
-Clases de Aprendiendo.com
+Clases de Aprendible.com
